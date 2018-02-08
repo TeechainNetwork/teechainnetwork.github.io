@@ -909,6 +909,7 @@ header .social-links ul li a:focus {
 }
 @media only screen and (max-width:600px) {
 	header .logo {
+		display: none;
 		left: 41px;
 		margin-top: 30px;
 	}
@@ -928,6 +929,7 @@ header .social-links ul li a:focus {
 @media only screen and (max-width:500px) {
 	header .logo {
 		left: 35px;
+		display: none;
 	}
 	header .social-links {
 		right: 35px;
@@ -941,6 +943,7 @@ header .social-links ul li a:focus {
 }
 @media only screen and (max-width:380px) {
 	header .logo {
+		display: none;
 		left: 30px;
 		margin-top: 30px;
 	}
