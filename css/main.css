@@ -919,6 +919,7 @@ header .social-links ul li a:focus {
 		background-size: 70px 61px;
 	}
 	header .social-links {
+		display: none;
 		right: 41px;
 		top: 42px;
 	}
@@ -932,10 +933,11 @@ header .social-links ul li a:focus {
 		display: none;
 	}
 	header .social-links {
+		display: none;
 		right: 35px;
 	}
 	header .social-links ul {
-		font-size: 2.1rem;
+		font-size: 2rem;
 	}
 	header .social-links ul li {
 		padding: 0 .6rem;
@@ -953,7 +955,8 @@ header .social-links ul li a:focus {
 		background-size: 60px 52px;
 	}
 	header .social-links ul {
-		font-size: 2rem;
+		display: none;
+		font-size: rem;
 	}
 	header .social-links li {
 		padding: 0 .3rem;
