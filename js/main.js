@@ -50,7 +50,7 @@
 	$('.home-particles').particleground({
 	   dotColor: '#ffffff',
 	   lineColor: '#555555',
-	   particleRadius: 4,
+	   particleRadius: 2,
 	   curveLines: true,
 	   density: 10000,
 	   proximity: 110
@@ -62,7 +62,7 @@
 	$('.sec-particles').particleground({
 	   dotColor: '#ffffff',
 	   lineColor: '#555555',
-	   particleRadius: 4,
+	   particleRadius: 2,
 	   curveLines: true,
 	   density: 10000,
 	   proximity: 110
